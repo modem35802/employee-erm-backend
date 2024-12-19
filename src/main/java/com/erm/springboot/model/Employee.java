@@ -1,4 +1,4 @@
-package com.react.springboot.model;
+package com.erm.springboot.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.react.springboot;
+package com.erm.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
